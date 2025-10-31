@@ -1,0 +1,40 @@
+#id_ol {
+  color: green;
+  background-color: yellow;
+  width: fit-content;
+}
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table th {
+  vertical-align: bottom;
+  text-align: left;
+  border: 1px solid black;
+  font-style: italic;
+}
+
+table td {
+  vertical-align: bottom;
+  text-align: left;
+  border: 1px solid black;
+}
+
+table img {
+  width: 30vw;
+  display: inline-block;
+  justify-self: flex-start;
+}
+
+.tbl_str {
+  background-color: lightgray;
+}
+
+.tbl_str td {
+  width: 12%;
+}
+
+.th_center {
+  text-align: center;
+}
